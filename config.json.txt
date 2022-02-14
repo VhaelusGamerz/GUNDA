@@ -1,0 +1,5 @@
+{
+  "ip": "BhavikServer.aternos.me",
+  "port": "18039",
+  "name": "GUNDA"
+}
